@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="anime">
+        <item >Goku</item>
+        <item >Ichigo</item>
+        <item >Luffy</item>
+        
+        <item >Natsu</item><item>Naruto</item>
+        <item >Todos</item>
+    </string-array>
+    
+</resources>
